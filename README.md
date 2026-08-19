@@ -1,11 +1,51 @@
-<!-- 🌊 Animated Wave Header -->
+<!-- ✨ Particle Constellation Header (Inline SVG) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ashiq%20Hussain&fontSize=40&fontColor=fff&fontAlignY=35&animation=fadeIn" width="100%" />
+  <svg width="100%" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1200" height="200" fill="#0D1117" opacity="0"/>
+    <circle cx="150" cy="80" r="3" fill="#00F0FF">
+      <animate attributeName="cx" values="150;400;150" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="80;40;80" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="120" r="4" fill="#7C3AED">
+      <animate attributeName="cx" values="600;800;600" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="120;80;120" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1000" cy="60" r="3" fill="#EC4899">
+      <animate attributeName="cx" values="1000;1100;1000" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="60;150;60" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="150" y1="80" x2="600" y2="120" stroke="#00F0FF" stroke-width="0.5" opacity="0.4">
+      <animate attributeName="x1" values="150;400;150" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="80;40;80" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="600;800;600" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="120;80;120" dur="8s" repeatCount="indefinite"/>
+    </line>
+    <line x1="600" y1="120" x2="1000" y2="60" stroke="#7C3AED" stroke-width="0.5" opacity="0.3">
+      <animate attributeName="x1" values="600;800;600" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="120;80;120" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1000;1100;1000" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="60;150;60" dur="11s" repeatCount="indefinite"/>
+    </line>
+  </svg>
 </p>
 
 <!-- ⌨️ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Ashiq+Hussain;Aspiring+Python+Developer;Entry-Level+IT+Professional;Building+Real+Projects;Learning+Everyday" alt="Typing Animation" />
+</p>
+
+<!-- 🧬 Digital Scanline (Inline SVG) -->
+<p align="center">
+  <svg width="100%" height="40" viewBox="0 0 1200 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="20" x2="1200" y2="20" stroke="#00F0FF" stroke-width="0.5" opacity="0.3"/>
+    <line x1="0" y1="0" x2="0" y2="40" stroke="#00F0FF" stroke-width="1" opacity="0.8">
+      <animate attributeName="x1" values="0;1200;0" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1200;0" dur="6s" repeatCount="indefinite"/>
+    </line>
+    <circle cx="0" cy="20" r="2" fill="#7C3AED">
+      <animate attributeName="cx" values="0;1200;0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
 </p>
 
 <!-- 👁 Status Badges -->
@@ -19,9 +59,24 @@
 
 ---
 
-<!-- ⚡ Neon Divider -->
+<!-- 🌌 Neon Energy Beam Divider (Inline SVG) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/neon-line.svg" width="100%" alt="Neon Divider" onerror="this.style.display='none'">
+  <svg width="100%" height="20" viewBox="0 0 1200 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="0" y="9" width="1200" height="2" fill="url(#beam)" opacity="0.8">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <circle r="3" fill="#00F0FF">
+      <animate attributeName="cx" values="-20;1220" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <defs>
+      <linearGradient id="beam" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#00F0FF"/>
+        <stop offset="0.5" stop-color="#7C3AED"/>
+        <stop offset="1" stop-color="#EC4899"/>
+      </linearGradient>
+    </defs>
+  </svg>
 </p>
 
 # 👨‍💻 Ashiq Hussain
@@ -61,8 +116,6 @@
 Python Basics → Tkinter GUI → Projects → Intermediate Python → Open Source
      ✅              ✅          ✅          🔄 (in progress)      ⏳ (planned)
 ```
-
-**Current Milestone:** 🟢 Building real projects & strengthening fundamentals
 
 ---
 
@@ -224,7 +277,7 @@ Learning → Building → Improving → Contributing
 <details>
 <summary>🎁 Click for a surprise!</summary>
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 </details>
 
@@ -238,7 +291,20 @@ Learning → Building → Improving → Contributing
 
 </div>
 
-<!-- 🌊 Animated Wave Footer -->
+<!-- 🌊 Aurora Flow Footer (Inline SVG) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <svg width="100%" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#00F0FF" stop-opacity="0"/>
+        <stop offset="0.3" stop-color="#7C3AED" stop-opacity="0.6"/>
+        <stop offset="0.7" stop-color="#EC4899" stop-opacity="0.6"/>
+        <stop offset="1" stop-color="#00F0FF" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <path d="M0 80 Q 300 20 600 60 T 1200 80" stroke="url(#aurora)" stroke-width="6" fill="none" opacity="0.6">
+      <animate attributeName="d" values="M0 80 Q 300 20 600 60 T 1200 80;M0 60 Q 300 100 600 40 T 1200 60;M0 80 Q 300 20 600 60 T 1200 80" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </svg>
 </p>
