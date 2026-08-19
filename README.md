@@ -1,20 +1,27 @@
-<!-- Animated Wave Header -->
+<!-- 🌊 Animated Wave Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ashiq%20Hussain&fontSize=40&fontColor=fff&fontAlignY=35&animation=fadeIn" width="100%" />
 </p>
 
-<!-- Typing Animation -->
+<!-- ⌨️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Ashiq+Hussain;Aspiring+Python+Developer;Entry-Level+IT+Professional;Open+to+Opportunities;Building+Real+Projects;Learning+Everyday" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Ashiq+Hussain;Aspiring+Python+Developer;Entry-Level+IT+Professional;Building+Real+Projects;Learning+Everyday" alt="Typing Animation" />
 </p>
 
-<!-- Status Badges -->
+<!-- 👁 Status Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashiqhussain-97&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ashiqhussain-97?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/ashiqhussain-97?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="Stars" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github&logoColor=white" alt="Status">
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Opportunities">
+</p>
+
+---
+
+<!-- ⚡ Neon Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/neon-line.svg" width="100%" alt="Neon Divider" onerror="this.style.display='none'">
 </p>
 
 # 👨‍💻 Ashiq Hussain
@@ -25,35 +32,85 @@
 
 ---
 
-## 📇 Profile Summary
+## 📇 Developer Identity Card
 
-Entry-level Python developer with hands-on experience in small automation projects like a shared bill calculator and digital clock. Skilled in basic programming concepts, problem-solving, and learning new technologies quickly. Seeking an opportunity to apply and further develop skills in a real-world academic environment while contributing positively to a university community abroad.
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="mailto:ashiqhussain97.kh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/ashiq-hussain97"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/ashiqhussain-97"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://ashiqhussain-97.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  <a href="https://orcid.org/0009-0005-7208-5079"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://my-globe.mn.co/members/40691742"><img src="https://img.shields.io/badge/MyGlobe-0A66C2?style=for-the-badge&logo=globe&logoColor=white" alt="MyGlobe"></a>
-</p>
+| Field | Details |
+|-------|---------|
+| **Name** | Ashiq Hussain |
+| **Role** | Aspiring Python Developer |
+| **Education** | F.Sc. Pre-Engineering (77%) |
+| **Location** | Punjab, Pakistan |
+| **Focus** | Python, Tkinter, Problem Solving |
+| **Open to** | Entry-level IT Opportunities |
 
 ---
 
-## 🎓 Education
+## 🎯 Current Focus
 
-| Qualification | Institution | Location | Result | Year |
-|--------------|-------------|----------|--------|------|
-| High School Diploma / F.Sc. (Pre-Engineering) | Punjab Group of College | Lahore | 77% | 2024 – 2025 |
-| Secondary School Certificate (Matriculation) | Dar-e-Arqam | Sargodha | 90% | 2022 – 2023 |
+- 🐍 **Intermediate Python** — OOP, APIs, file handling
+- 🧠 **Problem Solving** — algorithms, debugging
+- 🔄 **Git/GitHub** — version control, collaboration
+- 📁 **Data Handling** — JSON, CSV, persistent storage
+- 🎨 **Clean Code** — readability, documentation
 
 ---
 
-## 💻 Technical Skills
+## 🧭 Learning Roadmap
+
+```
+Python Basics → Tkinter GUI → Projects → Intermediate Python → Open Source
+     ✅              ✅          ✅          🔄 (in progress)      ⏳ (planned)
+```
+
+**Current Milestone:** 🟢 Building real projects & strengthening fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+### 📇 Contact Book
+🔗 [Repository](https://github.com/ashiqhussain-97/Contact-Book-.git)
+
+- ✅ Contact management system (add, view, update, delete)
+- ✅ File handling for persistent data
+- ✅ User input validation
+- ✅ Structured programming approach
+
+### ⏰ Digital Clock
+🔗 [Repository](https://github.com/ashiqhussain-97/Digital-Clock.git)
+
+- ✅ Real-time clock with live updates
+- ✅ Time formatting & GUI (Tkinter)
+- ✅ 12/24 hour format
+- ✅ Practical use of real-time applications
+
+### 📝 Simple Text Editor
+🔗 [Repository](https://github.com/ashiqhussain-97/Simple-Text-Editor.git)
+
+- ✅ Open, save, edit text files
+- ✅ GUI with Tkinter
+- ✅ File handling & event-driven programming
+- ✅ Desktop application basics
+
+---
+
+## 🖼️ Project Gallery
+
+<div align="center">
+  <a href="https://github.com/ashiqhussain-97/Contact-Book-.git">
+    <img src="https://img.shields.io/badge/📇_Contact_Book-333333?style=for-the-badge&logo=github&logoColor=white" alt="Contact Book">
+  </a>
+  <a href="https://github.com/ashiqhussain-97/Digital-Clock.git">
+    <img src="https://img.shields.io/badge/⏰_Digital_Clock-333333?style=for-the-badge&logo=github&logoColor=white" alt="Digital Clock">
+  </a>
+  <a href="https://github.com/ashiqhussain-97/Simple-Text-Editor.git">
+    <img src="https://img.shields.io/badge/📝_Text_Editor-333333?style=for-the-badge&logo=github&logoColor=white" alt="Text Editor">
+  </a>
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -93,51 +150,7 @@ Entry-level Python developer with hands-on experience in small automation projec
 
 ---
 
-## 🛠️ Projects
-
-### 📇 Contact Book
-🔗 [Repository](https://github.com/ashiqhussain-97/Contact-Book-.git)
-
-- ✅ Developed contact management system to store, view, and manage contacts
-- ✅ Add, update, delete functionalities
-- ✅ File handling / data storage for persistent data management
-- ✅ Structured programming and user input validation
-
-### ⏰ Digital Clock
-🔗 [Repository](https://github.com/ashiqhussain-97/Digital-Clock.git)
-
-- ✅ Real-time digital clock with live time updates
-- ✅ Time formatting and GUI display
-- ✅ Tkinter for interface design
-- ✅ Strengthened real-time application understanding
-
-### 📝 Simple Text Editor
-🔗 [Repository](https://github.com/ashiqhussain-97/Simple-Text-Editor.git)
-
-- ✅ File open, save, edit functionalities
-- ✅ GUI using Tkinter
-- ✅ File handling and event-driven programming
-- ✅ Desktop application development
-
----
-
-## 🖼️ Project Gallery
-
-<div align="center">
-  <a href="https://github.com/ashiqhussain-97/Contact-Book-.git">
-    <img src="https://img.shields.io/badge/📇_Contact_Book-333333?style=for-the-badge&logo=github&logoColor=white" alt="Contact Book">
-  </a>
-  <a href="https://github.com/ashiqhussain-97/Digital-Clock.git">
-    <img src="https://img.shields.io/badge/⏰_Digital_Clock-333333?style=for-the-badge&logo=github&logoColor=white" alt="Digital Clock">
-  </a>
-  <a href="https://github.com/ashiqhussain-97/Simple-Text-Editor.git">
-    <img src="https://img.shields.io/badge/📝_Text_Editor-333333?style=for-the-badge&logo=github&logoColor=white" alt="Text Editor">
-  </a>
-</div>
-
----
-
-## 📈 GitHub Statistics
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashiqhussain-97&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=EC4899&text_color=FFFFFF" width="48%" />
@@ -148,12 +161,12 @@ Entry-level Python developer with hands-on experience in small automation projec
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqhussain-97&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=EC4899&fire=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=FFFFFF" width="100%" />
 </p>
 
-<!-- GitHub Trophies -->
+<!-- 🏆 GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ashiqhussain-97&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%" />
 </p>
 
-<!-- Activity Graph -->
+<!-- 📊 Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashiqhussain-97&theme=react-dark&bg_color=0D1117&color=00F0FF&line=EC4899&point=FFFFFF&hide_border=true" width="100%" />
 </p>
@@ -168,6 +181,38 @@ Entry-level Python developer with hands-on experience in small automation projec
 
 ---
 
+## 🏆 Achievements & Highlights
+
+- 🎯 IELTS Overall Band Score **6.0** (Writing 6.5, Speaking 6, Reading & Listening 5.5)
+- ⌨️ Typing Speed **48 WPM**
+- 🌍 Citizen Science Participant (GLOBE Observer)
+- 📚 Self-taught programmer building real projects
+- 🏅 Certified Python Beginner (Simplilearn)
+
+---
+
+## 🧩 Developer Journey
+
+```
+Learning → Building → Improving → Contributing
+   ✅          ✅          🔄          ⏳
+```
+
+---
+
+## 🌐 Professional Navigation Hub
+
+<p align="center">
+  <a href="mailto:ashiqhussain97.kh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/ashiq-hussain97"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/ashiqhussain-97"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://ashiqhussain-97.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="https://orcid.org/0009-0005-7208-5079"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://my-globe.mn.co/members/40691742"><img src="https://img.shields.io/badge/MyGlobe-0A66C2?style=for-the-badge&logo=globe&logoColor=white" alt="MyGlobe"></a>
+</p>
+
+---
+
 ## 💬 Random Dev Quote
 
 <p align="center">
@@ -176,23 +221,12 @@ Entry-level Python developer with hands-on experience in small automation projec
 
 ---
 
-## 🏆 Achievements & Highlights
+<details>
+<summary>🎁 Click for a surprise!</summary>
 
-- 🎯 IELTS Overall Band Score 6.0 (Writing 6.5, Speaking 6, Reading & Listening 5.5)
-- ⌨️ Typing Speed 48 WPM
-- 🌍 Citizen Science Participant (GLOBE Observer)
-- 📚 Self-taught programmer building real projects
-- 🏅 Certified Python Beginner (Simplilearn)
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
----
-
-## 🌐 Let's Connect
-
-I'm open to:
-- 🤝 Collaborative Projects
-- 💡 Learning Opportunities
-- 🌟 Open Source Contributions
-- 🎯 Entry-level Python / IT Positions
+</details>
 
 ---
 
@@ -204,7 +238,7 @@ I'm open to:
 
 </div>
 
-<!-- Animated Wave Footer -->
+<!-- 🌊 Animated Wave Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
 </p>
