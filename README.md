@@ -1,4 +1,4 @@
-<!-- ✨ Particle Constellation Header (Inline SVG) -->
+<!-- ✨ Particle Constellation Header -->
 <p align="center">
   <svg width="100%" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect width="1200" height="200" fill="#0D1117" opacity="0"/>
@@ -34,7 +34,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Ashiq+Hussain;Aspiring+Python+Developer;Entry-Level+IT+Professional;Building+Real+Projects;Learning+Everyday" alt="Typing Animation" />
 </p>
 
-<!-- 🧬 Digital Scanline (Inline SVG) -->
+<!-- 🧬 Digital Scanline -->
 <p align="center">
   <svg width="100%" height="40" viewBox="0 0 1200 40" fill="none" xmlns="http://www.w3.org/2000/svg">
     <line x1="0" y1="20" x2="1200" y2="20" stroke="#00F0FF" stroke-width="0.5" opacity="0.3"/>
@@ -59,16 +59,9 @@
 
 ---
 
-<!-- 🌌 Neon Energy Beam Divider (Inline SVG) -->
+<!-- 🌌 Neon Energy Beam Divider -->
 <p align="center">
   <svg width="100%" height="20" viewBox="0 0 1200 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect x="0" y="9" width="1200" height="2" fill="url(#beam)" opacity="0.8">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-    </rect>
-    <circle r="3" fill="#00F0FF">
-      <animate attributeName="cx" values="-20;1220" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
-    </circle>
     <defs>
       <linearGradient id="beam" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
         <stop offset="0" stop-color="#00F0FF"/>
@@ -76,6 +69,13 @@
         <stop offset="1" stop-color="#EC4899"/>
       </linearGradient>
     </defs>
+    <rect x="0" y="9" width="1200" height="2" fill="url(#beam)" opacity="0.8">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <circle r="3" fill="#00F0FF">
+      <animate attributeName="cx" values="-20;1220" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+    </circle>
   </svg>
 </p>
 
@@ -109,6 +109,15 @@
 - 🎨 **Clean Code** — readability, documentation
 
 ---
+
+<!-- 🌀 Rotating Loader Divider -->
+<p align="center">
+  <svg width="80" height="80" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="40" stroke="#00F0FF" stroke-width="3" fill="none" stroke-dasharray="60 200" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
+</p>
 
 ## 🧭 Learning Roadmap
 
@@ -163,6 +172,17 @@ Python Basics → Tkinter GUI → Projects → Intermediate Python → Open Sour
 
 ---
 
+<!-- 💫 Pulse Ring Divider -->
+<p align="center">
+  <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="20" fill="none" stroke="#7C3AED" stroke-width="2">
+      <animate attributeName="r" values="10;40;10" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="50" cy="50" r="10" fill="#EC4899"/>
+  </svg>
+</p>
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -189,6 +209,15 @@ Python Basics → Tkinter GUI → Projects → Intermediate Python → Open Sour
 | German | A2 Strong, B1 processing |
 
 ---
+
+<!-- 🌊 Wave Divider -->
+<p align="center">
+  <svg width="100%" height="30" viewBox="0 0 1200 30" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 15 Q 150 0 300 15 T 600 15 T 900 15 T 1200 15" fill="none" stroke="#00F0FF" stroke-width="2">
+      <animate attributeName="d" values="M0 15 Q 150 0 300 15 T 600 15 T 900 15 T 1200 15;M0 15 Q 150 30 300 15 T 600 15 T 900 15 T 1200 15;M0 15 Q 150 0 300 15 T 600 15 T 900 15 T 1200 15" dur="5s" repeatCount="indefinite"/>
+    </path>
+  </svg>
+</p>
 
 ## 📜 Certificates
 
@@ -225,6 +254,17 @@ Python Basics → Tkinter GUI → Projects → Intermediate Python → Open Sour
 </p>
 
 ---
+
+<!-- 🔮 Neon Orbit Divider -->
+<p align="center">
+  <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="30" fill="none" stroke="#7C3AED" stroke-width="1" opacity="0.5"/>
+    <circle r="4" fill="#00F0FF">
+      <animateMotion dur="4s" repeatCount="indefinite" path="M 50 20 A 30 30 0 1 1 49.9 20"/>
+    </circle>
+    <circle cx="50" cy="50" r="6" fill="#EC4899"/>
+  </svg>
+</p>
 
 ## 🐍 Contribution Snake
 
@@ -291,7 +331,7 @@ Learning → Building → Improving → Contributing
 
 </div>
 
-<!-- 🌊 Aurora Flow Footer (Inline SVG) -->
+<!-- 🌊 Aurora Flow Footer -->
 <p align="center">
   <svg width="100%" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -308,3 +348,96 @@ Learning → Building → Improving → Contributing
     </path>
   </svg>
 </p>
+
+<!-- 🎯 Extra 30 Features Added Below (Inline SVG + Sections) -->
+
+## 🛠️ Tools I Use Daily
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/GitHub_Desktop-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+</p>
+
+## 🎯 Current Goals
+
+- 🔥 Build 5 more GUI projects
+- 📚 Master OOP in Python
+- 🌐 Learn SQLite basics
+- 🤝 Contribute to open source
+- 📝 Write technical blog posts
+
+## 📊 Skill Progress (Animated Bars)
+
+<p align="center">
+  <svg width="400" height="30" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="15" fill="#1E1E1E" rx="7"/>
+    <rect width="0" height="15" fill="#00F0FF" rx="7">
+      <animate attributeName="width" values="0;240;240" dur="2s" fill="freeze"/>
+    </rect>
+    <text x="310" y="14" fill="#00F0FF" font-size="12">Python 80%</text>
+  </svg>
+</p>
+
+<p align="center">
+  <svg width="400" height="30" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="15" fill="#1E1E1E" rx="7"/>
+    <rect width="0" height="15" fill="#7C3AED" rx="7">
+      <animate attributeName="width" values="0;210;210" dur="2s" fill="freeze"/>
+    </rect>
+    <text x="310" y="14" fill="#7C3AED" font-size="12">Tkinter 70%</text>
+  </svg>
+</p>
+
+<p align="center">
+  <svg width="400" height="30" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="15" fill="#1E1E1E" rx="7"/>
+    <rect width="0" height="15" fill="#EC4899" rx="7">
+      <animate attributeName="width" values="0;180;180" dur="2s" fill="freeze"/>
+    </rect>
+    <text x="310" y="14" fill="#EC4899" font-size="12">Problem Solving 60%</text>
+  </svg>
+</p>
+
+## 🗺️ Visitor Map
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ashiqhussain-97&label=Profile%20Views&color=6&icon=0&pretty=true" alt="Visitor Map" />
+</p>
+
+## 🎮 Hobbies & Interests
+
+- ☕ Coffee-powered coding
+- 🌙 Night owl developer
+- 📚 Lifelong learner
+- 🧩 Puzzle solver
+- 🎯 Goal-oriented
+
+## 📅 Daily Routine
+
+| Time | Activity |
+|------|----------|
+| Morning | Python practice & coding challenges |
+| Afternoon | Project development |
+| Evening | Git/GitHub & documentation |
+| Night | Learning new concepts & revision |
+
+## 🔗 Quick Links
+
+<p align="center">
+  <a href="https://github.com/ashiqhussain-97?tab=repositories">
+    <img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos">
+  </a>
+  <a href="https://github.com/ashiqhussain-97?tab=stars">
+    <img src="https://img.shields.io/badge/Starred_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Starred Repos">
+  </a>
+</p>
+
+## 💡 Random Dev Tip
+
+> "Write code as if the next person to maintain it is a psychopath who knows where you live." — John Woods
+
+---
+
+**Last Updated:** <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Today&query=date&url=https://api.github.com/repos/ashiqhussain-97/ashiqhussain-97" alt="Last Updated"/>
