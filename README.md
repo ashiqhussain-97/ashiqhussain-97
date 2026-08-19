@@ -1,16 +1,18 @@
-<!-- Header Animation (Neon Line) -->
+<!-- Animated Wave Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/neon-line.svg" width="100%" alt="Header Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ashiq%20Hussain&fontSize=40&fontColor=fff&fontAlignY=35&animation=fadeIn" width="100%" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Ashiq+Hussain;Aspiring+Python+Developer;Entry-Level+IT+Professional;Open+to+Opportunities;Building+Real+Projects" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Ashiq+Hussain;Aspiring+Python+Developer;Entry-Level+IT+Professional;Open+to+Opportunities;Building+Real+Projects;Learning+Everyday" alt="Typing Animation" />
 </p>
 
-<!-- Status Badges (Neon) -->
+<!-- Status Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashiqhussain-97&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ashiqhussain-97?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ashiqhussain-97?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="Stars" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github&logoColor=white" alt="Status">
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Opportunities">
 </p>
@@ -138,7 +140,7 @@ Entry-level Python developer with hands-on experience in small automation projec
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashiqhussain-97&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=EC4899&text_color=FFFFFF" width="48%" />
@@ -149,6 +151,32 @@ Entry-level Python developer with hands-on experience in small automation projec
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqhussain-97&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=EC4899&fire=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=FFFFFF" width="100%" />
 </p>
 
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashiqhussain-97&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashiqhussain-97&theme=react-dark&bg_color=0D1117&color=00F0FF&line=EC4899&point=FFFFFF&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/output/snake.svg" width="100%" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
 ---
 
 ## 🏆 Achievements & Highlights
@@ -157,6 +185,7 @@ Entry-level Python developer with hands-on experience in small automation projec
 - ⌨️ Typing Speed 48 WPM
 - 🌍 Citizen Science Participant (GLOBE Observer)
 - 📚 Self-taught programmer building real projects
+- 🏅 Certified Python Beginner (Simplilearn)
 
 ---
 
@@ -178,4 +207,7 @@ I'm open to:
 
 </div>
 
-
+<!-- Animated Wave Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+</p>
