@@ -1,26 +1,18 @@
+# 👨‍💻 ASHIQ HUSSAIN
 
-<!-- BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ashiq+Hussain;Building+Practical+Python+Projects;Learning+Every+Day" alt="Typing SVG" />
-</p>
+### Python Developer | Entry-Level IT Professional
 
-<!-- TECH BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-GUI-6366F1?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+> Building practical Python projects while growing my software development skills.
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
 I'm **Ashiq Hussain**, an entry-level Python developer focused on building practical GUI applications and improving my programming skills.
 
 - 🎓 F.Sc Pre-Engineering (77%)
 - 📍 Pakistan
-- 🌍 Languages: English, German
+- 🌍 Languages: English, German (A2 strong / B1 learning)
 - 🎯 Currently improving: Python logic, GUI development, Git workflow
 
 ---
