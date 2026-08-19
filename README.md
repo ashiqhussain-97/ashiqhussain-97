@@ -4,7 +4,7 @@
 
 <!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Ashiq+Hussain;Python+Developer;Entry-Level+IT+Professional;Building+Real+Projects;Learning+by+Doing" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Ashiq+Hussain;Python+Developer;Entry-Level+IT+Professional;Building+Real+Projects;Learning+by+Doing;Open+to+Work" alt="Typing Animation" />
 </p>
 
 <!-- Travelling Neon Light Divider -->
@@ -34,39 +34,12 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
 </p>
 
----
+<!-- Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" alt="Open to Work">
+  <img src="https://img.shields.io/badge/Learning-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Learning">
+</p>
 
-<!-- ============================================ -->
-<!-- ABOUT ME SECTION                            -->
-<!-- ============================================ -->
 
-## 🚀 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Ashiq Hussain"
-        self.role = "Python Developer"
-        self.location = "Pakistan"
-        self.education = {
-            "Matric": "90%",
-            "F.Sc Pre-Engineering": "77%"
-        }
-        self.current_focus = [
-            "Intermediate Python",
-            "Problem Solving",
-            "Clean Code",
-            "Git/GitHub Workflow"
-        ]
-        self.projects = [
-            "Contact Book",
-            "Digital Clock",
-            "Text Editor"
-        ]
-    
-    def philosophy(self):
-        return "I'm not claiming to be an expert. I'm an entry-level developer building real projects and continuously improving."
-    
-    def learning_style(self):
-        return "Learning by building real projects, not just watching tutorials."
 
