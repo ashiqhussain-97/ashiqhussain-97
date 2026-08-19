@@ -1,4 +1,4 @@
-# ashiqhussain97
+
 <!-- BANNER -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ashiq+Hussain;Building+Practical+Python+Projects;Learning+Every+Day" alt="Typing SVG" />
