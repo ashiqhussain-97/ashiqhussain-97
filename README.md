@@ -310,3 +310,27 @@ Learning → Building → Improving → Contributing
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/aurora-flow.svg" width="100%" alt="Aurora Flow" />
 </p>
+<!-- 🌌 Advanced Neon Aurora Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/neon-aurora-header.svg" width="100%" alt="Neon Aurora Header" />
+</p>
+
+<!-- 📡 Radar Sweep Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/radar-sweep.svg" width="200" alt="Radar Sweep" />
+</p>
+
+<!-- 💠 Energy Core Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/energy-core.svg" width="200" alt="Energy Core" />
+</p>
+
+<!-- 🔮 Digital Rain Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/digital-rain.svg" width="100%" alt="Digital Rain" />
+</p>
+
+<!-- 🔥 Fire Trails Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/fire-trails.svg" width="100%" alt="Fire Trails" />
+</p>
