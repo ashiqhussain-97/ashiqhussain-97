@@ -1,0 +1,42 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <radialGradient id="coreGlow">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#EC4899" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  
+  <rect width="300" height="300" fill="#0D1117"/>
+  
+  <!-- Pulsing core -->
+  <circle cx="150" cy="150" r="40" fill="url(#coreGlow)" filter="url(#glow)">
+    <animate attributeName="r" values="30;50;30" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Orbiting rings -->
+  <circle cx="150" cy="150" r="70" stroke="#00F0FF" stroke-width="2" fill="none" opacity="0.6">
+    <animateTransform attributeName="transform" type="rotate" from="0 150 150" to="360 150 150" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="150" r="90" stroke="#7C3AED" stroke-width="1.5" fill="none" opacity="0.5">
+    <animateTransform attributeName="transform" type="rotate" from="360 150 150" to="0 150 150" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="150" r="110" stroke="#EC4899" stroke-width="1" fill="none" opacity="0.4">
+    <animateTransform attributeName="transform" type="rotate" from="0 150 150" to="360 150 150" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Orbiting dots on rings -->
+  <circle r="6" fill="#00F0FF">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M 150 80 A 70 70 0 1 1 149.9 80"/>
+  </circle>
+  <circle r="4" fill="#7C3AED">
+    <animateMotion dur="8s" repeatCount="indefinite" path="M 150 60 A 90 90 0 1 1 149.9 60"/>
+  </circle>
+  <circle r="3" fill="#EC4899">
+    <animateMotion dur="10s" repeatCount="indefinite" path="M 150 40 A 110 110 0 1 1 149.9 40"/>
+  </circle>
+</svg>
