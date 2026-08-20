@@ -19,9 +19,9 @@
 
 ---
 
-<!-- ⚡ Neon Divider -->
+<!-- 🌌 Neon Energy Beam Divider (Existing file) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/neon-line.svg" width="100%" alt="Neon Divider" onerror="this.style.display='none'">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/neon-energy-beam.svg" width="100%" alt="Neon Divider">
 </p>
 
 # 👨‍💻 Ashiq Hussain
@@ -161,11 +161,6 @@ Python Basics → Tkinter GUI → Projects → Intermediate Python → Open Sour
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqhussain-97&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=EC4899&fire=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=FFFFFF" width="100%" />
 </p>
 
-<!-- 🏆 GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashiqhussain-97&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%" />
-</p>
-
 <!-- 📊 Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashiqhussain-97&theme=react-dark&bg_color=0D1117&color=00F0FF&line=EC4899&point=FFFFFF&hide_border=true" width="100%" />
@@ -173,10 +168,16 @@ Python Basics → Tkinter GUI → Projects → Intermediate Python → Open Sour
 
 ---
 
-## 🐍 Contribution Snake
-
+<!-- 🐍 Contribution Snake (Inline Animated SVG) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/output/snake.svg" width="100%" alt="Contribution Snake Animation" />
+  <svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+    <path d="M 20 50 Q 40 20 70 50 T 120 50 T 170 50" fill="none" stroke="#00F0FF" stroke-width="4" stroke-linecap="round">
+      <animate attributeName="d" values="M 20 50 Q 40 20 70 50 T 120 50 T 170 50;M 20 50 Q 40 80 70 50 T 120 50 T 170 50;M 20 50 Q 40 20 70 50 T 120 50 T 170 50" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="20" cy="50" r="4" fill="#EC4899">
+      <animate attributeName="cx" values="20;170;20" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
 </p>
 
 ---
