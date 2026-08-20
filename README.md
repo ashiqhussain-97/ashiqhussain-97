@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ashiq%20Hussain&fontSize=40&fontColor=fff&fontAlignY=35&animation=fadeIn" width="100%" />
 </p>
 
-<!-- 👤 Logo / Avatar -->
+<!-- 👤 Profile Logo -->
 <p align="center">
-  <img src="https://github.com/ashiqhussain-97.png" width="120" height="120" style="border-radius:50%; border: 3px solid #00F0FF;" alt="Ashiq Hussain Logo" />
+  <img src="https://github.com/ashiqhussain-97.png" width="120" height="120" style="border-radius:50%; border: 3px solid #00F0FF;" alt="Ashiq Hussain" />
 </p>
 
 <!-- ⌨️ Typing Animation -->
@@ -183,7 +183,14 @@ Python Basics → Tkinter GUI → Projects → Intermediate Python → Open Sour
 
 ---
 
-## 🐍 Contribution Snake (Custom SVG — Upload Neeche diya hai)
+<!-- 🫀 ECG Line Animation (Contribution Graph Alternative) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/ecg-line.svg" width="100%" alt="ECG Line Animation" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Custom SVG)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/snake.svg" width="100%" alt="Contribution Snake" />
