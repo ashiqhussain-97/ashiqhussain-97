@@ -13,10 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Ashiq+Hussain;Aspiring+Python+Developer;Entry-Level+IT+Professional;Building+Real+Projects;Learning+Everyday" alt="Typing Animation" />
 </p>
 
-<!-- 📡 Radar Sweep Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/radar-sweep.svg" width="200" alt="Radar Sweep" />
-</p>
 
 <!-- 👁 Status Badges -->
 <p align="center">
