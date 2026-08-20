@@ -1,6 +1,6 @@
-<!-- 🌊 Animated Wave Header -->
+<!-- 🌌 Advanced Neon Aurora Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ashiq%20Hussain&fontSize=40&fontColor=fff&fontAlignY=35&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/neon-aurora-header.svg" width="100%" alt="Neon Aurora Header" />
 </p>
 
 <!-- 👤 Profile Logo -->
@@ -11,6 +11,11 @@
 <!-- ⌨️ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Ashiq+Hussain;Aspiring+Python+Developer;Entry-Level+IT+Professional;Building+Real+Projects;Learning+Everyday" alt="Typing Animation" />
+</p>
+
+<!-- 📡 Radar Sweep Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/radar-sweep.svg" width="200" alt="Radar Sweep" />
 </p>
 
 <!-- 👁 Status Badges -->
@@ -109,6 +114,11 @@ Python Basics → Tkinter GUI → Projects → Intermediate Python → Open Sour
 
 ---
 
+<!-- 💠 Energy Core Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/energy-core.svg" width="200" alt="Energy Core" />
+</p>
+
 ## 🖼️ Project Gallery
 
 <div align="center">
@@ -183,7 +193,7 @@ Python Basics → Tkinter GUI → Projects → Intermediate Python → Open Sour
 
 ---
 
-<!-- 🫀 ECG Line Animation (Contribution Graph Alternative) -->
+<!-- 🫀 ECG Line Animation (Hospital Monitor) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/ecg-line.svg" width="100%" alt="ECG Line Animation" />
 </p>
@@ -194,6 +204,13 @@ Python Basics → Tkinter GUI → Projects → Intermediate Python → Open Sour
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/snake.svg" width="100%" alt="Contribution Snake" />
+</p>
+
+---
+
+<!-- 🔥 Fire Trails Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/fire-trails.svg" width="100%" alt="Fire Trails" />
 </p>
 
 ---
@@ -309,28 +326,4 @@ Learning → Building → Improving → Contributing
 <!-- 🌌 Aurora Flow Footer -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/aurora-flow.svg" width="100%" alt="Aurora Flow" />
-</p>
-<!-- 🌌 Advanced Neon Aurora Header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/neon-aurora-header.svg" width="100%" alt="Neon Aurora Header" />
-</p>
-
-<!-- 📡 Radar Sweep Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/radar-sweep.svg" width="200" alt="Radar Sweep" />
-</p>
-
-<!-- 💠 Energy Core Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/energy-core.svg" width="200" alt="Energy Core" />
-</p>
-
-<!-- 🔮 Digital Rain Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/digital-rain.svg" width="100%" alt="Digital Rain" />
-</p>
-
-<!-- 🔥 Fire Trails Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/fire-trails.svg" width="100%" alt="Fire Trails" />
 </p>
