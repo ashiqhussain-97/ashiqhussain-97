@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ashiq%20Hussain&fontSize=40&fontColor=fff&fontAlignY=35&animation=fadeIn" width="100%" />
 </p>
 
+<!-- 👤 Logo / Avatar -->
+<p align="center">
+  <img src="https://github.com/ashiqhussain-97.png" width="120" height="120" style="border-radius:50%; border: 3px solid #00F0FF;" alt="Ashiq Hussain Logo" />
+</p>
+
 <!-- ⌨️ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Ashiq+Hussain;Aspiring+Python+Developer;Entry-Level+IT+Professional;Building+Real+Projects;Learning+Everyday" alt="Typing Animation" />
@@ -19,9 +24,14 @@
 
 ---
 
-<!-- 🌌 Neon Energy Beam Divider (Existing file) -->
+<!-- 🧬 Digital Scanline -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/neon-energy-beam.svg" width="100%" alt="Neon Divider">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/digital-scanline.svg" width="100%" alt="Digital Scanline" />
+</p>
+
+<!-- ✨ Particle Constellation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/particle-constellation.svg" width="100%" alt="Particle Constellation" />
 </p>
 
 # 👨‍💻 Ashiq Hussain
@@ -31,6 +41,11 @@
 📍 Punjab, Pakistan | 📧 ashiqhussain97.kh@gmail.com | 📱 +923280802773
 
 ---
+
+<!-- 🌌 Neon Energy Beam Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/neon-energy-beam.svg" width="100%" alt="Neon Energy Beam" />
+</p>
 
 ## 📇 Developer Identity Card
 
@@ -168,16 +183,10 @@ Python Basics → Tkinter GUI → Projects → Intermediate Python → Open Sour
 
 ---
 
-<!-- 🐍 Contribution Snake (Inline Animated SVG) -->
+## 🐍 Contribution Snake (Custom SVG — Upload Neeche diya hai)
+
 <p align="center">
-  <svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
-    <path d="M 20 50 Q 40 20 70 50 T 120 50 T 170 50" fill="none" stroke="#00F0FF" stroke-width="4" stroke-linecap="round">
-      <animate attributeName="d" values="M 20 50 Q 40 20 70 50 T 120 50 T 170 50;M 20 50 Q 40 80 70 50 T 120 50 T 170 50;M 20 50 Q 40 20 70 50 T 120 50 T 170 50" dur="2s" repeatCount="indefinite"/>
-    </path>
-    <circle cx="20" cy="50" r="4" fill="#EC4899">
-      <animate attributeName="cx" values="20;170;20" dur="4s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/snake.svg" width="100%" alt="Contribution Snake" />
 </p>
 
 ---
@@ -198,6 +207,52 @@ Python Basics → Tkinter GUI → Projects → Intermediate Python → Open Sour
 Learning → Building → Improving → Contributing
    ✅          ✅          🔄          ⏳
 ```
+
+---
+
+## 🛠️ Tools I Use Daily
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/GitHub_Desktop-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop">
+  <img src="https://img.shields.io/badge/Command_Prompt-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="CMD">
+</p>
+
+## 🎯 Current Goals
+
+- 🔥 Build 5 more GUI projects
+- 📚 Master OOP in Python
+- 🌐 Learn SQLite basics
+- 🤝 Contribute to open source
+- 📝 Write technical blog posts
+
+## 🎮 Hobbies & Interests
+
+- ☕ Coffee-powered coding
+- 🌙 Night owl developer
+- 📚 Lifelong learner
+- 🧩 Puzzle solver
+- 🎯 Goal-oriented
+
+## 📅 Daily Routine
+
+| Time | Activity |
+|------|----------|
+| Morning | Python practice & coding challenges |
+| Afternoon | Project development |
+| Evening | Git/GitHub & documentation |
+| Night | Learning new concepts & revision |
+
+## 🔗 Quick Links
+
+<p align="center">
+  <a href="https://github.com/ashiqhussain-97?tab=repositories">
+    <img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos">
+  </a>
+  <a href="https://github.com/ashiqhussain-97?tab=stars">
+    <img src="https://img.shields.io/badge/Starred_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Starred Repos">
+  </a>
+</p>
 
 ---
 
@@ -242,4 +297,9 @@ Learning → Building → Improving → Contributing
 <!-- 🌊 Animated Wave Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+</p>
+
+<!-- 🌌 Aurora Flow Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/aurora-flow.svg" width="100%" alt="Aurora Flow" />
 </p>
