@@ -1,6 +1,6 @@
-<!-- Header Typing Animation -->
+<!-- 🌊 Animated Wave Header (Same as footer style) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Ashiq+Hussain;Python+Developer;Entry-Level+IT+Professional;Building+Real+Projects;Learning+by+Doing;Open+to+Work" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ashiq%20Hussain&fontSize=40&fontColor=fff&fontAlignY=35&animation=fadeIn" width="100%" />
 </p>
 <!-- 👤 Profile Logo -->
 <p align="center">
