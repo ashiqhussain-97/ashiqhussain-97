@@ -1,0 +1,45 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="200" fill="#0D1117"/>
+  
+  <!-- Digital rain columns -->
+  <text x="50" y="0" font-family="monospace" font-size="16" fill="#00F0FF" opacity="0.8">
+    <tspan>01011</tspan>
+    <animate attributeName="y" values="0;200" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <text x="150" y="0" font-family="monospace" font-size="16" fill="#7C3AED" opacity="0.7">
+    <tspan>10110</tspan>
+    <animate attributeName="y" values="0;200" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="250" y="0" font-family="monospace" font-size="16" fill="#EC4899" opacity="0.6">
+    <tspan>11001</tspan>
+    <animate attributeName="y" values="0;200" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="350" y="0" font-family="monospace" font-size="16" fill="#00F0FF" opacity="0.9">
+    <tspan>01010</tspan>
+    <animate attributeName="y" values="0;200" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="0" font-family="monospace" font-size="16" fill="#7C3AED" opacity="0.5">
+    <tspan>10101</tspan>
+    <animate attributeName="y" values="0;200" dur="2.8s" repeatCount="indefinite"/>
+  </text>
+  <text x="550" y="0" font-family="monospace" font-size="16" fill="#EC4899" opacity="0.8">
+    <tspan>01100</tspan>
+    <animate attributeName="y" values="0;200" dur="3.2s" repeatCount="indefinite"/>
+  </text>
+  <text x="650" y="0" font-family="monospace" font-size="16" fill="#00F0FF" opacity="0.7">
+    <tspan>10011</tspan>
+    <animate attributeName="y" values="0;200" dur="2.7s" repeatCount="indefinite"/>
+  </text>
+  <text x="750" y="0" font-family="monospace" font-size="16" fill="#7C3AED" opacity="0.9">
+    <tspan>11100</tspan>
+    <animate attributeName="y" values="0;200" dur="4.2s" repeatCount="indefinite"/>
+  </text>
+  <text x="850" y="0" font-family="monospace" font-size="16" fill="#EC4899" opacity="0.6">
+    <tspan>00110</tspan>
+    <animate attributeName="y" values="0;200" dur="3.8s" repeatCount="indefinite"/>
+  </text>
+  <text x="950" y="0" font-family="monospace" font-size="16" fill="#00F0FF" opacity="0.8">
+    <tspan>11010</tspan>
+    <animate attributeName="y" values="0;200" dur="2.9s" repeatCount="indefinite"/>
+  </text>
+</svg>
