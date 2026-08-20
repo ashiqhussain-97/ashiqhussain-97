@@ -1,1 +1,12 @@
-
+<svg width="1200" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="200" fill="#0D1117"/>
+  <path d="M 50 100 Q 150 50 250 100 T 450 100 T 650 100 T 850 100 T 1050 100" fill="none" stroke="#00F0FF" stroke-width="6" stroke-linecap="round">
+    <animate attributeName="d" values="M 50 100 Q 150 50 250 100 T 450 100 T 650 100 T 850 100 T 1050 100;M 50 100 Q 150 150 250 100 T 450 100 T 650 100 T 850 100 T 1050 100;M 50 100 Q 150 50 250 100 T 450 100 T 650 100 T 850 100 T 1050 100" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="50" cy="100" r="8" fill="#EC4899">
+    <animate attributeName="cx" values="50;1050;50" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="100" r="4" fill="#7C3AED">
+    <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
