@@ -1,8 +1,7 @@
-<!-- 🌌 Advanced Neon Aurora Header -->
+<!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/assets/neon-aurora-header.svg" width="100%" alt="Neon Aurora Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Ashiq+Hussain;Python+Developer;Entry-Level+IT+Professional;Building+Real+Projects;Learning+by+Doing;Open+to+Work" alt="Typing Animation" />
 </p>
-
 <!-- 👤 Profile Logo -->
 <p align="center">
   <img src="https://github.com/ashiqhussain-97.png" width="120" height="120" style="border-radius:50%; border: 3px solid #00F0FF;" alt="Ashiq Hussain" />
