@@ -62,9 +62,10 @@
 
 ## 🏆 NASA Badges & Certifications
 
-![NASA Open Science 101](https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/nasa-open-science-101.png)
-
-![NASA Open Science Essentials](https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/nasa-open-science-essentials.png)
+| Badge | Name | Link |
+|-------|------|------|
+| ![NASA Open Science 101](https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/nasa-open-science-101.png) | NASA Open Science 101 | [View Badge](https://www.credly.com/badges/0664fe98-4196-4220-98a2-73ab538de581) |
+| ![NASA Open Science Essentials](https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/nasa-open-science-essentials.png) | NASA Open Science Essentials | [View Badge](https://www.credly.com/badges/4aad23e7-9bb8-4a1f-b344-2fd316e37cbc) |
 
 ## 🎯 Current Focus
 
