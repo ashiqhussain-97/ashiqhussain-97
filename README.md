@@ -60,6 +60,12 @@
 
 ---
 
+## 🏆 NASA Badges & Certifications
+
+![NASA Open Science 101](https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/nasa-open-science-101.png)
+
+![NASA Open Science Essentials](https://raw.githubusercontent.com/ashiqhussain-97/ashiqhussain-97/main/nasa-open-science-essentials.png)
+
 ## 🎯 Current Focus
 
 - 🐍 **Intermediate Python** — OOP, APIs, file handling
