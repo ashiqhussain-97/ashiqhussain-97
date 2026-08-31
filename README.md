@@ -12,11 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Ashiq+Hussain;Aspiring+Python+Developer;Entry-Level+IT+Professional;Building+Real+Projects;Learning+Everyday" alt="Typing Animation" />
 </p>
 
-## 🏆 NASA Badges & Certifications
 
-[![NASA Open Science 101](https://img.shields.io/badge/NASA-Open%20Science%20101-0055A4?style=flat&logo=NASA&logoColor=white)](YOUR_CREDLY_LINK_101)
-[![NASA Open Science Essentials](https://img.shields.io/badge/NASA-Open%20Science%20Essentials-0055A4?style=flat&logo=NASA&logoColor=white)](YOUR_CREDLY_LINK_ESSENTIALS)
-[![GLOBE Observer](https://img.shields.io/badge/NASA-GLOBE%20Observer-34A853?style=flat&logo=NASA&logoColor=white)](https://my-globe.mn.co/members/40691742)
 <!-- 👁 Status Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashiqhussain-97&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
